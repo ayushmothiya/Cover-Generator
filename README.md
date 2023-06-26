@@ -22,7 +22,7 @@ The discussed pipeline can also be effectively applied to the cover generation o
 
 ## Description
 <img src="https://github.com/Pushkar1853/Music-Cover-generator/blob/5918290f9ce9b4ed905d118e958d6a8ccadf4b8c/images/Abbey-Road-Cover.jpg" alt="your_alt_text" align="right" style="width: 50%; height: 60%;">
-* This is a simple application that uses the spectacular Stable Diffusion model to generate images from song lyrics.
+* This is a simple application that uses the spectacular Stable Diffusion model to generate images from song lyricss.
 
 * We apply a large multilingual language model in open-ended generation of English song lyrics, and
 evaluate the resulting lyrics for coherence and creativity using
